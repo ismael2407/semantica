@@ -1,0 +1,15 @@
+/*esto es un comentario de css */
+
+/*
+selector {
+    propiedad: valor;
+    propiedad: valor;
+}
+*/
+body{
+
+    background-color: crimson;
+}
+h1 {
+    color: blueviolet;
+}
