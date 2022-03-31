@@ -8,8 +8,24 @@ selector {
 */
 body{
 
-    background-color: crimson;
+    background-color: rgb(167, 172, 212);
 }
 h1 {
-    color: blueviolet;
+    color: rgb(213, 216, 31);
+}
+h3 {
+
+    color:mediumorchid
+}
+h4 {
+
+    color:mediumorchid
+}
+h5{
+
+    color:mediumorchid
+}
+h6{
+
+    color:mediumorchid
 }
