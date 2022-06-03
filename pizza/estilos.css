@@ -1,0 +1,151 @@
+header {
+    height: 220px;
+    background-repeat: no-repeat;
+    background-image: url(https://s1.1zoom.me/b6152/819/Pizza_Tomatoes_547600_1920x1080.jpg);
+    padding: 0px;
+    border-radius: 5px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    color: white;
+    background-color: grey;
+    margin: 50px;
+    border: solid;
+    border-radius: 10px;
+}
+
+img {
+    height: 20px;
+}
+
+#logo {
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+body {
+    background-color: rgb(37, 36, 36);
+    background-image: url(https://f.vividscreen.info/soft/9f2be67b878a2bc4c5443fa1c3bdf214/Pizza-from-Pizza-Hut-1920x1200.jpg);
+}
+
+h2 {
+    color: white;
+justify-content: center;
+display: flex;
+}
+
+input {
+    border-radius: 10px;
+
+}
+
+#u1 {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: flex-end;
+
+
+}
+
+.datos {
+    display: grid;
+
+}
+
+input {
+    margin-top: 50px;
+}
+
+#pizza {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-right: 100px;
+}
+
+.todo {
+    text-align: center;
+    margin-left: 100px;
+    border: solid rgb(250, 185, 66);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#tamaño {
+    margin-top: 50px;
+}
+
+#bebidas {
+    margin-top: 50px;
+}
+
+#entrega {
+    margin-top: 50px;
+}
+
+#pedir {
+    margin-top: 50px;
+}
+
+#boton {
+    padding-right: 100px;
+    text-align: center;
+}
+
+.cajas {
+    display: flex;
+    justify-content: center;
+    border: solid rgb(250, 185, 66);
+margin-left: 500px;
+margin-right: 500px;
+border-radius: 10px;
+margin-bottom: 50px;
+}
+
+main {
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: rgb(233, 154, 36);
+    padding-bottom: 60px;
+    border-radius: 10px;
+   
+}
+
+
+footer {
+    background-image: url(https://s1.1zoom.me/b6152/819/Pizza_Tomatoes_547600_1920x1080.jpg);
+    height: 220px;
+    background-repeat: no-repeat;
+    padding: 0px;
+    border-radius: 5px;
+
+}
+
+
+#u2 {
+    margin-top: -200px;
+}
+
+
+
+
+
+#cant1 , #cant2, #cant3, #cant4, #cant5{
+margin-left: 68px;
+
+
+}
+
+#t1,#t2,#t3,#t5,#t4{
+    margin-left: 15px;
+}
+#hace-pedido{
+text-align: center;
+padding: 20px;
+}

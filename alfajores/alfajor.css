@@ -1,0 +1,96 @@
+header{
+    background-color: rgb(236, 108, 108);
+padding: 80px;
+text-align: center;
+}
+main{
+    background-color: rgb(236, 108, 108);
+    padding: 80px;
+    display: flex;
+    text-align: center;
+}
+/* div{
+margin: 500px;
+    height: 500px;
+    width: 600px;
+background-color: rgb(7, 7, 175);
+
+} */
+
+.caja {
+    width: 393px;
+    background-color: rgb(37, 204, 112) ;
+border:solid black;
+border-radius: 25px;
+margin-top: 100px;
+margin-right: 250px;
+}
+.parrafo{
+    padding:10px ;
+}
+.titulo{
+    padding: 10px;
+}
+.cesta{
+text-align: right;
+}
+.caja-2{
+    width: 393px;
+    background-color: rgb(37, 204, 112) ;
+border:solid black;
+border-radius: 25px;
+margin-top: 100px;
+margin-right: 250px;
+
+}
+.caja-3{
+    width: 393px;
+    background-color: rgb(37, 204, 112) ;
+border:solid black;
+border-radius: 25px;
+margin-top: 100px;
+
+}
+
+
+li{
+    display: inline;
+    padding: 10px;
+    background-color: rgb(204, 84, 84);
+ margin: 50px;
+border: solid;
+border-radius: 10px;
+}
+hr{
+    color: black;
+}
+img{
+    border-radius: 20px;
+}
+
+
+#uno{
+    background-color: rgb(255, 255, 255);
+   justify-content: center;
+   display: flex;
+   flex-direction: column;
+
+}
+h1{
+text-align: center;}
+.contacto{
+    margin: 10px;
+}
+input{
+    width: 300px;
+height: 30px;
+    border-color: solid black;
+    border-radius: 10px;
+    border: solid black;
+}
+
+
+#tres{
+background-color: white;
+
+}

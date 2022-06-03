@@ -1,0 +1,49 @@
+#a {
+    height: 100vh;
+    width: 16.6%;
+    background-color: #819CB2;
+}
+
+#b {
+    height: 100vh;
+    background-color: #476A88;
+    width: 16.6%;
+
+}
+
+#c {
+    height: 100vh;
+    background-color: #2A4F6E;
+    width: 16.6%;
+
+
+}
+
+#d {
+    height: 100vh;
+    background-color: #476A88;
+    width: 16.6%;
+
+}
+
+#e {
+    height: 100vh;
+    background-color: #062138;
+    width: 16.6%;
+
+}
+
+#f {
+    height: 100vh;
+    background-color: #143653;
+    width: 16.6%;
+
+}
+
+header {
+    background-color: #062138;
+    text-align: center;}
+main{
+display: flex;
+
+}
